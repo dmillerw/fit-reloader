@@ -1,0 +1,22 @@
+{
+  "name": "fit-reloader",
+  "version": "1.0.0",
+  "description": "Automatically re-installs apps via the Fitbit CLI whenever source files change",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmillerw/fit-reloader.git"
+  },
+  "author": "dmillerw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmillerw/fit-reloader/issues"
+  },
+  "homepage": "https://github.com/dmillerw/fit-reloader#readme"
+}
